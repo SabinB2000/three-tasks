@@ -1,0 +1,9 @@
+img{
+    border-radius:50% ;
+    width: auto;
+    height: 300px;
+    background-size: cover;
+}
+figure{
+    background-image: url();
+}
